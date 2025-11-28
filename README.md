@@ -6,8 +6,9 @@ Mastering Python for Professional Programmers
 
 # Setup your environment
 1) [Install Uv](https://docs.astral.sh/uv/getting-started/installation/)
-2) Load your dependancies: ```uv sync```
-3) load your virtual enviroment: ```uv venv```
+1a) If in windows: ```Set-ExecutionPolicy RemoteSigned -Scope CurrentUser```
+2) load your virtual enviroment: ```uv venv```
+3) Load your dependancies: ```uv sync```
 4) Follow the last line outputed (might be: ```.venv\Scripts\activate```)
 5) Run your script (if it's "main.py") by running: ```uv run main.py```
 
