@@ -12,6 +12,14 @@ Mastering Python for Professional Programmers
 4) Follow the last line outputed (might be: ```.venv\Scripts\activate```)
 5) Run your script (if it's "main.py") by running: ```uv run main.py```
 
+# Steps we'll do from now on
+1) Fork the repo to your own github
+2) Clone your own repo
+3) uv venv
+4) Activate the VENV (follow the green line)
+5) uv sync
+6) Run the programs with ```uv run index.py or uv run streamlit run index.py```
+
 
 ## Links of references
 - [PyPi.org](https://pypi.org)
