@@ -18,7 +18,7 @@ Mastering Python for Professional Programmers
 3) uv venv
 4) Activate the VENV (follow the green line)
 5) uv sync
-6) Run the programs with ```uv run index.py or uv run streamlit run index.py```
+6) Run the programs with ```uv run index.py``` or ```uv run streamlit run index.py```
 
 
 ## Links of references
