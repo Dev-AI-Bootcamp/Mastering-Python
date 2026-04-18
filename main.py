@@ -4,6 +4,13 @@ age: int = 52
 height: float = 1.82
 is_student: bool = False
 
+print (f"My name is {name}, I am {age} years old, my height is {height} meters, and I am {'a student' if is_student else 'not a student'}.")
+
+for i in range(4, 15):
+    print(f"I'm counting and I'm up to {i}")
+
+
+
 # This is a comment
 # and next is a function
 def greet(username: str) -> str:
